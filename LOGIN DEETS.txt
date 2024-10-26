@@ -1,0 +1,20 @@
+
+
+**Database Name: rposystem**
+
+
+**Admin Login Details**
+
+Email	: lian@gmail.com
+Password: codeastro.com
+
+**Cashier Login Details**
+
+Email	: sineadlianbayer19@gmail.com
+Password: 1901Lian!
+
+**Customer Login Details**
+
+Email	: nichole@gmail.com
+Password: 123456789
+
